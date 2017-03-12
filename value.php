@@ -70,7 +70,7 @@ array(
 
 array(
 array(
-"setan",
+"Devil",
 "iblis",
 "dajjal",
 ),
@@ -81,7 +81,7 @@ array(
 
 $botNormal=array(
 "Only 2 things can change women’s mood- 1) I love you, 2) 50% Discount!!", 
-"Bol rahi thi i don’t love you, Pyar mein dhokha isliye Thokaaa…",
+"speaking i don’t love you, Cheat in love…",
 );
 
 $botNomer=array(
