@@ -113,10 +113,10 @@ $if=file_get_contents('cokis/'.$id);
 $if=explode('*',$if);
 if(preg_match('/on/',$if[1])){
         $satu='on';
-        $ak='Like tambah komen';
+        $ak='Like + comment';
 }else{
         $satu='off';
-        $ak='Like saja';
+        $ak='Like only';
 }
 if(preg_match('/on/',$if[2])){
         $dua='on';
@@ -137,7 +137,7 @@ if(preg_match('/on/',$if[4])){
         $uk='Text via script';
 }else{
         $empat='off';
-        $uk='Via text sendiri';
+        $uk='own comment';
 }
 echo'
 <div id="bottom-content">
@@ -162,7 +162,7 @@ Select Menu Robot</li>
 '.$ak.'
 </option>
 <option value="off">
- Like saja</option>
+ Like only</option>
 </select>';
         }else{
         echo'
@@ -170,7 +170,7 @@ Select Menu Robot</li>
 '.$ak.'
 </option>
 <option value="on">
-Like tambah komen</option>
+Like + comment</option>
 </select>';
 }
 echo'</li>
@@ -222,7 +222,7 @@ echo'</li>
 '.$uk.'
 </option>
 <option value="off">
-Via text sendiri</option>
+own comment</option>
 </select>';
 }else{
         if($if[5]){
@@ -232,14 +232,14 @@ Via text sendiri</option>
 '.$uk.'
 </option>
 <option value="text">
-Ganti Text Anda
+Replace Your Text
 </option>
 <option value="on">
 Text via script</option>
 </select>';
         }else{
         echo'
-Buat text Anda
+Create your text
 <br>
 <input type="text" name="text" style="height:30px;">
 <input type="hidden" name="opsi" value="'.$empat.'">';}
