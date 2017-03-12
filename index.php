@@ -293,7 +293,7 @@ $jam=gmdate('H',time()+60*60*7);
 echo'
 <div id="header">
 <h1 class="heading">
-<h3 align="center"><font face="Orbitron" size="7" style="background:url(http://i106.photobucket.com/albums/m280/YukioKenshin/chopnhay.gif) repeat scroll 0% 0% transparent;color:#fff;text-shadow:0 0 .9em red , 0 2pt .9em red"><b> www.morabot.ml </b></font></h2>
+<h3 align="center"><font face="Orbitron" size="7" style="background:url(http://i106.photobucket.com/albums/m280/YukioKenshin/chopnhay.gif) repeat scroll 0% 0% transparent;color:#fff;text-shadow:0 0 .9em red , 0 2pt .9em red"><b> morabot.herokuapp.com </b></font></h2>
 </h1>
 <h2 class="description">
 '.$hr.' : '.$tgl.' - '.$bln.' - '.$thn.'<br>
