@@ -268,18 +268,18 @@ $hari=array(1=>
 );
 
 $bulan=array(1=>
-"Januari",
-  "Februari",
-    "Maret",
+"January",
+  "February",
+    "March",
      "April",
-       "Mei",
-         "Juni",
-           "Juli",
-             "Agustus",
-               "September",
-          "Oktober",
+       "May",
+         "June",
+           "July",
+             "August",
+               "september",
+          "October",
      "November",
-"Desember"
+"December"
 );
 
 $hr=$hari[gmdate('N',time()+60*60*7)];
