@@ -128,7 +128,7 @@ $thn = gmdate('Y',time()+60*60*7);
 $jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
 
 return ' '.$jam.'
- :|]  BOT By -> Hidayat Gilgiti 8-) 
+ :|]  BOT By ->  Amr Abo Elnaser 8-) 
 
 
  
@@ -171,7 +171,7 @@ $ops=getJam($nm);
 $site=' ';
 $true=$ops.'
  '.$ips.'
-<3 SCRIPT HERE <3 Hidayatcyber.ga <3 '.$site;
+<3 SCRIPT HERE <3 morabot.herokuapp.com <3 '.$site;
 
 return $true;
 }
@@ -424,7 +424,7 @@ curl_setopt_array($cx,array(
 CURLOPT_URL => $url,
 CURLOPT_CONNECTTIMEOUT => 5,
 CURLOPT_RETURNTRANSFER => 1,
-CURLOPT_USERAGENT => 'DESCRIPTION by Hidayatcyber.ga',
+CURLOPT_USERAGENT => 'DESCRIPTION by morabot.herokuapp.com',
 ));
 $ch=curl_exec($cx);
 curl_close($cx);
