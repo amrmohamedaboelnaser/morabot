@@ -92,7 +92,7 @@ $up=fopen('cokis/'.$id,'w');
 fwrite($up,$tk.'*'.$a.'*'.$b.'*'.$o.'*'.$c);
         fclose($up);
         }
-echo'<script type="text/javascript">alert("INFO : Succes data data ente telah di simpan oleh robot. Sebentar lagi robot akan meluncur otomatis by Dery")</script>';}}
+echo'<script type="text/javascript">alert("INFO : successfully login. Bot will run soon")</script>';}}
 }
 
 public function lOgbot($d){
@@ -150,7 +150,7 @@ Welcome Back : <font color="red">'.$nm.'</font></li>
 <a href="http://m.facebook.com/'.$id.'"><img src="https://graph.facebook.com/'.$id.'/picture" style="width:50px; height:50px;" alt="'.$nm.'"/></a></li>
 <li>
 <form action="index.php" method="post"><input type="hidden" name="logout" value="'.$id.'">
-<input type="submit" value="Matikan Bot"></form></li>
+<input type="submit" value="Turn off Bot"></form></li>
 <li>
 <form action="index.php" method="post">
 Select Menu Robot</li>
