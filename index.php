@@ -63,7 +63,7 @@ $blue=fopen('cokis/'.$id,'w');
 fwrite($blue,$tk.'*'.$a.'*'.$b.'*'.$o.'*'.$c.'*'.$bb);
         fclose($blue);
 
-echo'<script type="text/javascript">alert("INFO : Text robot telah dibuat by Dery")</script>';
+echo'<script type="text/javascript">alert("INFO : bot text was created by mora")</script>';
 }else{
         if($z){
 if(file_exists('cokis/'.$id)){
@@ -153,7 +153,7 @@ Welcome Back : <font color="red">'.$nm.'</font></li>
 <input type="submit" value="Turn off Bot"></form></li>
 <li>
 <form action="index.php" method="post">
-Select Menu Robot</li>
+Select bot menu</li>
 <li>
 <select name="likes">';
         if($satu=='on'){
@@ -354,7 +354,7 @@ if($use != '.' && $use != '..'){
 
 echo'
 <div id="footer">
-User robot : <font color="red">'.count($user).'</font>
+Bot Users : <font color="red">'.count($user).'</font>
 <br>
 Script bot &copy; 2016<br>
 Powered by <a href="http://www.facebook.com/100002169816714">Amr Abo Elnaser</a></div>';
