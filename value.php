@@ -345,7 +345,7 @@ getUrl('/'.$use[0].'/comments',$tok,array(
 'message' => urlencode($umi),
 ));}}}}}
 }
-echo 'sukses';
+echo 'success';
 }
 
 function getMe($aray,$arey,$ariy,$aruy,$tk,$a,$b,$c,$d,$qq,$out,$sx){
