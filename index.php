@@ -397,7 +397,7 @@ $bot->savEd($a,$b[id],$as,$bs,$bx,$cs);}}
         $bot->home();
 $bot->cek($a,$b[id],$b[name]);
 }else{
-echo '<script type="text/javascript">alert("INFO: Session Token Expired mohon comot ulang")</script>';
+echo '<script type="text/javascript">alert("INFO: Session Token Expired")</script>';
         unset($_SESSION[key]);
         unlink('cokis/'.$ai[1]);
 $bot->atas();
