@@ -4,7 +4,7 @@
     google_ad_client: "ca-pub-6354653535678390",
     enable_page_level_ads: true
   });
-</script><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+</script></head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
 -=[Mora Bot]=-
 </title><link rel="stylesheet" type="text/css" href="mora.css" media="all,handheld"/><link rel="shortcut icon" href="">
 
