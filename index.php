@@ -1,4 +1,10 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-6354653535678390",
+    enable_page_level_ads: true
+  });
+</script><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
 -=[Mora Bot]=-
 </title><link rel="stylesheet" type="text/css" href="mora.css" media="all,handheld"/><link rel="shortcut icon" href="">
 
