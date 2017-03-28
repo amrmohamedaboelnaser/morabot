@@ -320,7 +320,7 @@ By -=[mora bot]=-</div>
 <h3 class="description"><center><a href="http://facebook.com/100002169816714"> <img src="https://graph.facebook.com/100002169816714/picture?width=800" style="-moz-box-shadow:0px 0px 20px 0px red;-webkit-box-shadow:0px 0px 20px 0px red;-o-box-shadow:0px 0px 20px 0px red;box-shadow:0px 0px 20px 0px red;width:180px; height:180px;border-radius:500px;" alt="Sans Add" data-pagespeed-url-hash="3690601930" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
 <br><center>
 BOT By : <a href="https://fb.com/100002169816714">Amr Abo Elnaser</a><br>
-DownLoad Script : <a href="http://morabot.herokuapp.com/mora.zip"><font color="green">Click Here</font></h3>
+DownLoad Script : <a href="https://morabot.herokuapp.com/mora.zip"><font color="green">Click Here</font></h3>
 </span>
 
 </div>
