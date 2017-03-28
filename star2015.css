@@ -1,0 +1,73 @@
+body {margin:0px;padding:0px;font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;background:#000;color:#00ff00;font-size: 12px;border:2px dotted #555;}
+h1 {font-size:28px;}
+h2 {font-size:24px;}
+h3 {font-size:20px;}
+h4 {font-size:16px;}
+h4 {font-size:14px;}
+h5 {font-size:12px;}
+h6 {font-size:10px;}
+a {color:#ffff00;text-decoration:none;}
+a:hover {text-decoration:underline;}
+a.no-link, a.no-link:hover {color:#00ff00;text-decoration:none;}
+#header {margin:0px;padding:10px 2px 8px 6px;border:2px solid #555;background:#000 url(http://irul-arief.mywapblog.com/files/bintang.gif)repeat;text-align:center}
+#header .heading {font-size:24px;margin:0px;padding:0px;text-decoration:none;}
+#header .heading a {text-decoration:none;color:#ffff00;}
+#header .description {color:#00ff00;margin:0px;font-size:10px;padding:8px 2px 8px 4px;}
+#navigation {margin:3px 0px;color:#00ff00;border:none;padding:3px 0px 2px 0px;text-align:center}
+#navigation span {background:#000 url(http://irul-arief.mywapblog.com/files/k02.gif)repeat;border-top:1px solid #555;border-right:5px solid #555;border-bottom:1px solid #555;border-left:5px solid #555;margin:2px 3px 4px 2px;padding:4px 2px;font-size:12px;font-weight:bold;display:block;width:40%}
+#navigation span a {color:#ffff00;padding:0px;margin:0px;display:block;text-decoration:none;}
+#top-content {background:#000 url(http://irul-arief.mywapblog.com/files/k01.gif)repeat;margin:2px 4px 0px 4px;padding:6px 3px;text-align:center;border:2px dotted #555}
+#search-form [type=text] {width:60%;color:#00ff00;padding:4px 2px;background:#000 url(http://irul92arief.hexat.com/a/or7.png)repeat;border:1px inset #555}
+#search-form [type=submit] {width:25%;background:#000 url(http://irul92arief.hexat.com/a/or8.png)repeat;color:#ffff00;font-size:small;padding:4px 2px;border:1px outset #555;}
+#content {padding:2px;margin:0px 1px}
+.post, .post-single {margin:0px 1px 3px 1px;padding:0px;font-size:12px;}
+.post-meta {background:url(http://irul-arief.mywapblog.com/files/bintang.gif)repeat;font-size:small;margin:0px;padding:8px 3px;text-align:left;color:#00ff00;border:2px solid #555}
+.post-meta .title {color:#ffff00;font-size:18px;font-weight:bold;margin:0px;padding:0px;}
+.post-meta .title a {text-decoration:none;color:#ffff00;}
+.post-meta .categories {font-size:12px;margin:0px;padding:0px;color:#ffff00}
+.post-meta2 {background:url(http://irul-arief.mywapblog.com/files/k01.gif)repeat;font-size:10px;margin:0px;padding:6px 2px;text-align:right;border:2px solid #555}
+.post-meta2 a {color:#ffff00}
+.post-meta2 a:before {content:url(http://irul92arief.hexat.com/ia/Aa22.png);padding:2px}
+.post-content {margin:0px;padding:1px;font-size:12px;text-align:justify;border:2px dashed #555}
+#share-buttons {background:url(http://irul-arief.mywapblog.com/files/bintang.gif)repeat;font-size:10px;margin:0px;padding:6px 4px;text-align:center;border-top:1px solid #555;border-bottom:1px solid #555;border-left:5px solid #555;border-right:5px solid #555}
+#comments {background:#000;margin:0px;padding:2px;border:2px dashed #555}
+#comments h4, #comments h5{background:#000 url(http://irul-arief.mywapblog.com/files/bintang.gif)repeat;margin:0px;padding:3px;border:2px solid #555}
+#comments .comment {background:#000;padding:2px;margin:3px 0px 4px 0px;font-size:12px;color:#00ff00;}
+.comment-content {margin:0px;padding:6px 3px;border:2px solid #555}
+#comments .comment .comment-header {background:#000 url(http://irul-arief.mywapblog.com/files/k01.gif)repeat;border-bottom:2px dashed #555;font-size:10px;color:#00ff00;margin:0px;padding:6px 3px;}
+#comments .comment .comment-header .title {color:#00ff00;font-size:14px;font-weight:bold;margin:0px;padding:0px;}
+.comment-header .title:before {content: url(http://irul-arief.mywapblog.com/files/com.png);float:left;display:block}
+#comments .comment .comment-header .title a {text-decoration:none;color:#ffff00;font-weight:bold;padding:2px 3px}
+#comments form textarea {color:#000;border:2px inset #555;background:#000 url(http://irul-arief.mywapblog.com/files/bintang.gif)repeat;width:75%;margin:2px;padding:2px}
+#comments form [type=text] {color:#00ff00;border:2px inset #555;background:black url(http://irul-arief.mywapblog.com/files/k01.gif)repeat;width:50%;margin:2px;padding:2px}
+#comments form [type=submit] {border:2px outset #555;background:#000 url(http://irul-arief.mywapblog.com/files/k02.gif)repeat;color:#ffff00;margin-top:2px;width:50%;padding:4px;margin:2px}
+#footer {font-size:12px;margin:4px 0px 0px 0px;color:#00ff00;padding:15px 2px 10px 2px;background:#000 url(http://irul-arief.mywapblog.com/files/bintang.gif)repeat;text-align:center;border:2px solid #555}
+#footer a {color:#ffff00;}
+#footer #powered-by {font-size:8px;padding:0px;margin:0px;line-height:8px;}
+#footer #powered-by a {color:#ffff00;font-weight:bold;}
+#footer h6:before {content:"Haruna saleh_";color:#00ff00;}
+#footer:after {content:"STAR DESIGN BY HARUNA SALEH";color:#00ff00;display:block;margin:2px;padding:2px}
+#pagination-links {font-size:18px;text-align:center;color:#00ff00;border:2px solid #555}
+#pagination-links span {padding:5px;display:inline-block;background:#000;border:1px solid #555}
+#pagination-links a {padding:3px;background:#000;color:#ffff00;display:inline-block;margin-top:2px;text-decoration:none;border:1px solid #555}
+#pagination-links a:hover {text-decoration:none;}
+#bottom-content {padding:4px 2px 2px 2px;margin:5px 1px 2px 1px;background:#000;font-size:14px;color:#00ff00;border:2px dashed #555}
+#bottom-content a {color:#ffff00;}
+#bottom-content a.no-link, #bottom-content a.no-link:hover {color:#00ff00;text-decoration:none;}
+#bottom-content a:hover {text-decoration:none;}
+#category-bottom li, #recent-posts-list li {list-style:url(http://irul-arief.mywapblog.com/files/label.png);list-style-position:inside}
+#blogroll li, #following-list ol li, #blogroll_list ol li {list-style: url(http://irul-arief.mywapblog.com/files/star.gif);list-style-position:inside}
+#recent-posts-list, #following-list, #blogroll_list {background:#000;margin:3px 0px 0px 0px;padding:4px 1px}
+#bottom-content h3, #recent-posts-list h4, #comments h3, #following-list h4, #blogroll_list h3 {background:black url(http://irul-arief.mywapblog.com/files/bintang.gif)repeat;margin:0px; padding:6px 3px;text-align:center;color:#00ff00;border:2px solid #555;}
+#recent-posts-list ol, #following-list ol, #blogroll_list ol {margin:-3px;padding:3px}
+#recent-posts-list li, #following-list ol li, #blogroll_list ol li {background:#000 url(http://irul-arief.mywapblog.com/files/k01.gif)repeat;margin:1px 1px 3px 1px;padding:6px 3px;border:2px solid #555}
+#bottom-content ul {margin:0px;padding:0px;list-style:none;border:2px dashed #555}
+#bottom-content ul li {background:#000 url(http://irul-arief.mywapblog.com/files/bintang.gif)repeat;margin:1px 1px 2px 1px;padding:6px 2px;border:2px solid #555}
+#bottom-content ul li.last {border:2px solid #555}
+#navigation-menu li:nth-child(odd) {background:#000;margin:0px;list-style:none}
+#navigation-menu li:nth-child(even) {background:#222;list-style:none}
+#blogroll li:nth-child(odd) {background:#000 url(http://irul92arief.hexat.com/a/or7.png)repeat;list-style-position:inside}
+#blogroll li:nth-child(even) {background:#222 url(http://irul92arief.hexat.com/a/or8.png)repeat;list-style-position:inside}
+#category-bottom li:nth-child(odd) {background:#000 url(http://irul92arief.hexat.com/a/or7.png)repeat;list-style-position:inside}
+#category-bottom li:nth-child(even) {background:#222 url(http://irul92arief.hexat.com/a/or8.png)repeat;list-style-position:inside}
+.highlight, .messages {background:#000 url(http://irul-arief.mywapblog.com/files/bintang.gif)repeat;text-align:center;margin:3px 0px;padding:8px 3px;border:2px solid #555;color:#00ff00;}.post-meta .title:before{margin:0 3px 0 0;content:url(http://networking.yu.tl/files/h.png);} #footer h6:after {content:"Owner by Haruna";margin:1px;padding:1px;color:#eee;display:block} body:after { content:"Design by Lr Polash visit www.LikeMEAll.GQ"; display:block; text-align:center; color:blue;}
