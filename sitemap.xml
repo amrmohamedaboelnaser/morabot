@@ -7,6 +7,9 @@
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 <url>
-  <loc>https://morabot.herokuapp.com/</loc>
+  <loc>https://morabot.herokuapp.com</loc>
+  <loc>https://morabot.herokuapp.com/index.php</loc>
+  <loc>https://morabot.herokuapp.com/mora.css</loc>
+  <loc>https://morabot.herokuapp.com/mora.zip</loc>    
 </url>
 </urlset>
